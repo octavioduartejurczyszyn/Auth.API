@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|c:\\users\\octav\\desktop\\proyecto 2\\auth.api\\auth.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|c:\\users\\octav\\desktop\\proyecto 2\\auth.api\\auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|c:\\users\\octav\\desktop\\proyecto 2\\auth.api\\auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|c:\\users\\octav\\desktop\\proyecto 2\\auth.api\\auth.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|c:\\users\\octav\\desktop\\proyecto 2\\auth.api\\auth.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E91B949-80A3-4E07-BE1C-1D5FA608B806}|Auth.API\\Auth.API.csproj|solutionrelative:auth.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Services\\JwtService.cs",
+              "RelativeToolTip": "Auth.API\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T20:28:19.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\appsettings.json",
+              "RelativeToolTip": "Auth.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T20:27:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Auth.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\appsettings.Development.json",
+              "RelativeToolTip": "Auth.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T20:27:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Program.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Program.cs",
+              "ToolTip": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Program.cs",
+              "RelativeToolTip": "Auth.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T20:05:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Auth.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\octav\\Desktop\\Proyecto 2\\Auth.API\\Auth.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Auth.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T20:05:23.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
